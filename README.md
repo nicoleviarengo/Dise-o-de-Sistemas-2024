@@ -1,2 +1,2 @@
 # Diseño-de-Sistemas-2024
-Repositorio para entregar los trabajos practicos de la materia
+<span style="color:green;">Repositorio para entregar los trabajos practicos de la materia</span> 
